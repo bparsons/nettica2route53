@@ -23,3 +23,5 @@ You need to edit the script to place your AWS and Nettica credentials in the var
 
     nettica2route53.py <domainname> 
 
+
+[![Analytics](https://ga-beacon.appspot.com/UA-24846718-5/nettica2route53/README.md)](https://github.com/igrigorik/ga-beacon)
